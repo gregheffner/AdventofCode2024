@@ -22,3 +22,5 @@ Each day, a new folder will be created with the following structure:
 
 
 Happy coding!
+
+<!--- advent_readme_stars table --->
